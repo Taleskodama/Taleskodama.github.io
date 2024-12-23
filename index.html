@@ -715,8 +715,31 @@
       <!-- /Main Content -->
     </div>
     <footer>
-      <div class="copyrights">&copy; Geek University</div>
+      <div class="footer-content">
+        <span>&copy; Geek University</span>
+        <span style="margin-left: 20px;">Esta página foi visitada<span id="visit-count">0</span>vezes.</span>
+      </div>
     </footer>
+
+    <script>
+      // Recupera o número de visitas do localStorage
+      let visitCount = localStorage.getItem('visitCount');
+    
+      // Se não houver valor no localStorage, inicializa como 0
+      if (!visitCount) {
+        visitCount = 0;
+      }
+    
+      // Incrementa o contador
+      visitCount++;
+    
+      // Atualiza o localStorage com o novo valor
+      localStorage.setItem('visitCount', visitCount);
+    
+      // Exibe o número de visitas no elemento HTML
+      document.getElementById('visit-count').textContent = visitCount;
+    </script>
+    
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/pages-switcher.js"></script>
     <script type="text/javascript" src="js/imagesloaded.pkgd.min.js"></script>
