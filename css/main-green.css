@@ -77,7 +77,7 @@ body.ajax-page-visible {
 }
 
 a {
-  color: #2eca7f;
+  color: #8A2BE2;
   text-decoration: none;
   outline: none;
   -webkit-transition: all 0.3s ease-in-out;
@@ -185,7 +185,7 @@ textarea.form-control, textarea.form-control:focus {
   left: 50%;
   right: 50%;
   bottom: 0;
-  background: #2eca7f;
+  background: #8A2BE2;
   height: 2px;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -290,7 +290,7 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 .form-group-with-icon.form-group-focus i {
-  color: #2eca7f;
+  color: #8A2BE2;
 }
 /* /Form controls */
 
@@ -329,7 +329,7 @@ button, input[type="button"], input[type="submit"] {
 .btn-primary:hover,
 .btn-primary:focus,
 button, input[type="button"], input[type="submit"] {
-  background-color: #2eca7f;
+  background-color: #8A2BE2;
   color: #fff;
   border: 0;
   box-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 2px 4px rgba(0,0,0,0.3);
@@ -354,11 +354,11 @@ button:hover, input[type="button"]:hover, input[type="submit"]:hover {
 /* / buttons */
 
 .border-top {
-  border-top: 2px solid #2eca7f;
+  border-top: 2px solid #8A2BE2;
 }
 
 .border-bottom {
-  border-bottom: 2px solid #2eca7f;
+  border-bottom: 2px solid #8A2BE2;
 }
 
 /* Footer */
@@ -436,7 +436,7 @@ footer .footer-content span {
 
 .preloader-spinner:after {
   border-color: transparent;
-  border-top-color: #2eca7f;
+  border-top-color: #8A2BE2;
   -webkit-animation: rotation 0.82s infinite cubic-bezier(0.6,0.3,0.3,0.6);
   animation: rotation 0.82s infinite cubic-bezier(0.6,0.3,0.3,0.6);
 }
@@ -651,7 +651,7 @@ footer .footer-content span {
 }
 
 .site-title span {
-  color: #2eca7f;
+  color: #8A2BE2;
 }
 
 .header.sticked .site-title {
@@ -726,7 +726,7 @@ footer .footer-content span {
   width: 0;
   height: 2px;
   margin: 0 auto;
-  background-color: #2eca7f;
+  background-color: #8A2BE2;
   -webkit-transition: all 0.15s ease-in-out;
   -moz-transition: all 0.15s ease-in-out;
   -o-transition: all 0.15s ease-in-out;
@@ -790,7 +790,7 @@ footer .footer-content span {
 }
 
 .block-title h3 span {
-  color: #2eca7f;
+  color: #8A2BE2;
 }
 
 .custom-page-content .block {
@@ -811,7 +811,7 @@ footer .footer-content span {
 }
 
 .custom-page-content .page-header.color-1 {
-  background-color: #2eca7f;
+  background-color: #8A2BE2;
   background-image: url(../images/sp_main_bg.png);
   background-size: cover;
   -webkit-background-size: cover;
@@ -841,7 +841,7 @@ footer .footer-content span {
 ======================================= */
 .start-page-content .page-header {
   position: relative;
-  background-color: #2eca7f;
+  background-color: #8A2BE2;
   padding: 50px;
   margin-bottom: 25px;
   background-image: url(../images/sp_main_bg.png);
@@ -984,7 +984,7 @@ footer .footer-content span {
   margin-left: 20px;
   margin-bottom: 20px;
   background-color: #fff;
-  border-left: 2px solid #2eca7f;
+  border-left: 2px solid #8A2BE2;
   box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.2);
 }
 
@@ -1006,7 +1006,7 @@ footer .footer-content span {
   height: 12px;
   top: 20px;
   left: -29px;
-  border: 2px solid #2eca7f;
+  border: 2px solid #8A2BE2;
   z-index: 2;
 }
 
@@ -1014,7 +1014,7 @@ footer .footer-content span {
   content: '';
   display: inline-block;
   position: absolute;
-  background-color: #2eca7f;
+  background-color: #8A2BE2;
   border-radius: 10px;
   width: 29px;
   height: 2px;
@@ -1034,7 +1034,7 @@ footer .footer-content span {
   display: inline-block;
   font-size: 12px;
   line-height: 1.2em;
-  color: #2eca7f;
+  color: #8A2BE2;
   margin-bottom: 8px;
 }
 
@@ -1075,7 +1075,7 @@ footer .footer-content span {
 }
 
 .skill-percentage {
-  background-color: #2eca7f;
+  background-color: #8A2BE2;
   height: 10px;
   padding: 0;
 }
@@ -1182,7 +1182,7 @@ footer .footer-content span {
   font-size: 48px;
   line-height: 80px;
   color: #fff;
-  background-color: #2eca7f;
+  background-color: #8A2BE2;
   width: 80px;
   height: 80px;
   border-radius: 100px;
@@ -1257,7 +1257,7 @@ footer .footer-content span {
   font-weight: 400;
   display: block;
   margin: 10px 0;
-  color: #2eca7f;
+  color: #8A2BE2;
 }
 /* /Fun Facts */
 
@@ -1305,7 +1305,7 @@ footer .footer-content span {
   padding: 2.2em 1.2em 1.5em;
   font-style: italic;
   border: 1px solid #e0e0e0;
-  border-top: 2px solid #2eca7f;
+  border-top: 2px solid #8A2BE2;
   width: 100%;
   position: relative;
   margin: 0;
@@ -1389,7 +1389,7 @@ footer .footer-content span {
   content: '';
   height: 2px;
   margin-top: 0;
-  background-color: #2eca7f;
+  background-color: #8A2BE2;
   position: absolute;
   left: 0;
   bottom: -3px;
@@ -1466,7 +1466,7 @@ footer .footer-content span {
 
 .portfolio-filters li.active a,
 .portfolio-filters li.active a:hover {
-  background-color: #2eca7f;
+  background-color: #8A2BE2;
   color: #fff;
 }
 
@@ -1510,7 +1510,7 @@ footer .footer-content span {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #2eca7f;
+  background-color: #8A2BE2;
   opacity: 0.8;
   z-index: 0;
 }
@@ -1636,7 +1636,7 @@ footer .footer-content span {
 
 .blog-card .post-date span {
   display: block;
-  color: #2eca7f;
+  color: #8A2BE2;
   line-height: 1;
   font-size: 12px;
   margin: 0;
@@ -1777,7 +1777,7 @@ footer .footer-content span {
 .contact-info-block i {
   position: relative;
   font-size: 18px;
-  color: #2eca7f;
+  color: #8A2BE2;
   text-align: center;
   line-height: 36px;
 }
@@ -1828,7 +1828,7 @@ footer .footer-content span {
 .testimonials.owl-carousel .owl-nav .owl-prev:hover,
 .testimonials.owl-carousel .owl-nav .owl-next:hover {
   color: #fff;
-  background-color: #2eca7f;
+  background-color: #8A2BE2;
 }
 
 .testimonials.owl-carousel .owl-nav .owl-prev:before,
@@ -1999,7 +1999,7 @@ footer .footer-content span {
 }
 
 .ajax-page-nav > div.nav-item a:hover {
-  color: #2eca7f;
+  color: #8A2BE2;
 }
 
 .ajax-page-nav > div.nav-item a i {
@@ -2044,7 +2044,7 @@ footer .footer-content span {
 }
 
 .project-general-info .fa {
-  color: #2eca7f;
+  color: #8A2BE2;
   margin-right: 5px;
 }
 
@@ -2071,7 +2071,7 @@ footer .footer-content span {
 
 .share-buttons a:hover {
   color: #fff;
-  background-color: #2eca7f;
+  background-color: #8A2BE2;
   border-color: transparent;
 }
 
@@ -2157,7 +2157,7 @@ footer .footer-content span {
 
 blockquote {
   margin: 20px 0;
-  border-left: 3px solid #2eca7f;
+  border-left: 3px solid #8A2BE2;
   font-style: italic;
 }
 
@@ -2293,7 +2293,7 @@ blockquote footer, blockquote small, blockquote .small {
     top: 50px;
     z-index: 1001;
     overflow: auto;
-    background-color: #2eca7f;
+    background-color: #8A2BE2;
     -webkit-box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
     -moz-box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
     box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
@@ -2328,7 +2328,7 @@ blockquote footer, blockquote small, blockquote .small {
     left: 0;
     right: 0;
     height: 50px;
-    background-color: #2eca7f;
+    background-color: #8A2BE2;
     -webkit-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
     -moz-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
     box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
